@@ -5,7 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Name: Shriya Kumari
+Module: Dynamic Programming
+Learnings: I learned how to break complex problems into smaller sub-problems and solve them efficiently. The concept of storing intermediate results to avoid redundant calculations helped in optimizing both time and space. This approach is especially useful in problems involving recursion and overlapping substructures.
